@@ -1,1 +1,7 @@
 Cùng học những lệnh Git cơ bản nào.
+1. Git init
+- Create a local Repository in your own PC
+ =>  git init
+2. Git clone 
+- Clone a Remote Repository on Github to local PC
+=> git clone [Github_Repo_URL]
